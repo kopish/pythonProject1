@@ -1,0 +1,5 @@
+a = int(input("Введите число а: "))
+b = int(input("Введите число b: "))
+x = int(input("Введите число x: "))
+print(True if a < x < b else False)
+print(a < x < b)
