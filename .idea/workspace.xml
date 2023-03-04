@@ -4,491 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/001_functions_as_first_class_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/01-lambda_expressions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/02-closures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/03-advanced_closure_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/04-currying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/05-decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/06-map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/07-filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/08-reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/09-lru_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/10-partial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/11-combinatorics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/12-product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/13-chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/14-takewhile_dropwhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/15-operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/AL2Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/AL2Home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson1/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/example1_http_via_sockets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/example2_http_via_sockets_parsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/example3_urllib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/example4_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/example5_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/csrf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/issues/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/tasks/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/django_api/tasks/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/example6_extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/http/extra/example7_urllib3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/blocking/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/blocking/example4_nonblock_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/blocking/example4_nonblock_server_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/blocking/example5_nonblock_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/extra/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/extra/example5_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/extra/example5_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/tcp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/tcp/example3_tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/tcp/example3_tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/example1_udp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/example1_udp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/example1_udp_server_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/example2_udp_unix_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/simple/udp/example2_udp_unix_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/extra/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/extra/socket_tcp_server_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/tcp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/tcp/socket_tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/tcp/socket_tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/udp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/udp/socket_udp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_server/udp/socket_udp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_twisted/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson2/sockets/socket_twisted/twisted_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/.idea/examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/Task9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/example1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/file7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/data/undefined_dialect.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example1_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example2_dict_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example3_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example4_quoting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example5_dialect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_csv/example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_json/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_json/example1_dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_json/example2_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_json/example3_hook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_json/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example1_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example2_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example3_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example4_aggregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example5_repr_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_sqlite/example6_dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/book.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/example1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/example2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/example3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/example4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/data/test_ns.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/example1_read_build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/example2_events.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/example3_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/example4_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson3/_xml/example5_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/Task9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/sqlite_backup.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/sqlite_examples.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/sqlite_python.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/00_number_sum_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/01_computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Base1Home1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Base1Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Base1Home4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes1/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/.idea/examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/Direct/Mod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/Direct/Model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/Direct/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/Test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/analyser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/example_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/examples_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_package/my_module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_package/my_module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_package/my_package2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_program2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/my_program3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/sale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes10/sport_salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/Base2Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/Base2Home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/Base2Home4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/Base2home1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/Class=cat+dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/AvtoChange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Base3Home1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Base3Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Base3Home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Base3Home4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Game_Turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/polimorphism_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/polimorphism_overload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/polimorphism_overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/Замена_текста.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/пробний.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes4/Les4Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes4/Les4Home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes4/Les4Home4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes4/Lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Les5Home1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Les5Home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Les5Home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/class_Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/enumeration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes5/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Les1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/Test9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes6/example_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes7/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes8/example_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Lesson9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/example_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/image.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/quotes2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/some.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/some1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/BaseLes9/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/Black.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/Deck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/Player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Black_Jack/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Starter/Lesson2/examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Starter/Lesson8/fix_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Строки.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/Base/BaseLes3/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/задача7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/1_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson1/1_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/2_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson1/2_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/3_variables_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson1/3_variables_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/4_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson1/4_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/5_calculator_additionally.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson1/5_calculator_additionally.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/10_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/10_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/11_string_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/11_string_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/12_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/12_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/13_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/13_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/1_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/1_int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/2_bool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/2_bool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/3_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/3_float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/4_complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/4_complex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/5_dynamic_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/5_dynamic_typing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/6_arithmetic_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/6_arithmetic_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/7_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/7_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/8_logical_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/8_logical_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/9_comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/9_comparisons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2Home1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/Lesson2Home1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2Home2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/Lesson2Home2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/Lesson2Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2Home4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson2/Lesson2Home4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Advance/Lesson4/.idea/examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/10_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/10_pass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/1_simple_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/1_simple_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/2_single_line_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/2_single_line_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/3_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/3_if_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/4_nested_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/4_nested_if_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/5_nested_if_else_with_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/5_nested_if_else_with_elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/6_elif_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/6_elif_switch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/7_no_conditional_expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/7_no_conditional_expression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/8_conditional_expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/8_conditional_expression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/9_truth_value_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/9_truth_value_testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Lesson3Home1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Lesson3Home1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Lesson3Home2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Lesson3Home2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Lesson3Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Lesson3Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Lesson3Home4-Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Lesson3Home4-Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson3/Task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/0_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/0_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/10-for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/10-for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/11-for-else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/11-for-else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/12-for-continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/12-for-continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/13-nested-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/13-nested-loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/1_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/1_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/2_while_true.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/2_while_true.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/3_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/3_break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/4_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/4_break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/5_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/5_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/6_while_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/6_while_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/7_while_else_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/7_while_else_break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/8_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/8_for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/9_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/9_for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Les4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Les4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home 2 Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home 2 Factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home1For Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home1For Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home1while Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home1while Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Lesson4Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Lesson4Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson4/Task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/0_simple_procedure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/0_simple_procedure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/10-keyword-arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/10-keyword-arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/11-optional-arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/11-optional-arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/1_procedure_with_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/1_procedure_with_parameter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/2_using_builtin_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/2_using_builtin_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/3_multiple_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/3_multiple_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/4_main_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/4_main_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/5_simple_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/5_simple_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/6_procedures_as_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/6_procedures_as_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/7_multiple_return_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/7_multiple_return_statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/8_return_in_procedures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/8_return_in_procedures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/9_functions_in_expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/9_functions_in_expressions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Lesson5Home1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Lesson5Home1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Lesson5Home2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Lesson5Home2-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Lesson5Home2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Lesson5Home2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Lesson5Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Lesson5Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Lesson5Home4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Lesson5Home4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/Trapecia_and_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson5/Trapecia_and_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/0_docstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/0_docstrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/10-scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/10-scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/11-factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/11-factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/11-fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/11-fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/1_radix_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/1_radix_change.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/2_reversed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/2_reversed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/3_min_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/3_min_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/4_nested_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/4_nested_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/5_scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/5_scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/6_scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/6_scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/7_scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/7_scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/8_scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/8_scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/9_scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/9_scoping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Factorial_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Factorial_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Function2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Lesson6Home2 Palindrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home2 Palindrom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Lesson6Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Lesson6Home4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/Task44.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/Task44.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/hanoi_towers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson6/hanoi_towers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/0_list_definition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/0_list_definition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/10-in-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/10-in-str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/11-length-of-a-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/11-length-of-a-string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/12-append.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/12-append.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/13-del.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/13-del.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/14-list-mutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/14-list-mutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/15-list-traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/15-list-traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/16-list-constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/16-list-constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/17-fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/17-fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/1_list_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/1_list_indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/2_negative_indices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/2_negative_indices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/3_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/3_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/4_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/4_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/5_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/5_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/6_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/6_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/7_len.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/7_len.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/8_string_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/8_string_indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/9_string_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/9_string_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Lesson7Home1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/Lesson7Home1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Lesson7Home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/Lesson7Home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Lesson7Home4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/Lesson7Home4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson7/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Starter/Lesson8/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/BaseLes3/пробний.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задачі/задача1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -540,8 +65,8 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\BaseLes1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.пробний">
-    <configuration name="Строки" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.задача5">
+    <configuration name="11_string_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -549,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starter/Lesson2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Строки.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter/Lesson2/11_string_operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="пробний" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="задача3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -571,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задачі" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Програмування\PyCharm\pythonProject1\Base\BaseLes3\пробний.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Задачі/задача3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -585,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="AvtoChange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="задача5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -593,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задачі" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes3/AvtoChange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Задачі/задача5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -607,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Base2Home3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson6Home2 Palindrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -615,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starter/Lesson6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes2/Base2Home3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home2 Palindrom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -629,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Class=cat+dog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson6Home3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -637,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starter/Lesson6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes2/Class=cat+dog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -673,13 +198,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Програмування\PyCharm\pythonProject1\Base\BaseLes3\password.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.пробний" />
-        <item itemvalue="Python.AvtoChange" />
-        <item itemvalue="Python.Строки" />
-        <item itemvalue="Python.Class=cat+dog" />
-        <item itemvalue="Python.Base2Home3" />
+        <item itemvalue="Python.задача5" />
+        <item itemvalue="Python.Lesson6Home3" />
+        <item itemvalue="Python.Lesson6Home2 Palindrom" />
+        <item itemvalue="Python.задача3" />
+        <item itemvalue="Python.11_string_operations" />
       </list>
     </recent_temporary>
   </component>
@@ -710,8 +257,23 @@
       <workItem from="1661784977332" duration="1198000" />
       <workItem from="1675866801580" duration="3810000" />
       <workItem from="1677141877903" duration="12165000" />
-      <workItem from="1677757701080" duration="4797000" />
+      <workItem from="1677757701080" duration="22385000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1677773772915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677773772915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1677775147009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677775147009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,11 +290,26 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -800,18 +377,20 @@
     <SUITE FILE_PATH="coverage/pythonProject1$10_for.coverage" NAME="10-for Coverage Results" MODIFIED="1650892744905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$13_nested_loops.coverage" NAME="13-nested-loops Coverage Results" MODIFIED="1650892908256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$5_simple_function.coverage" NAME="5_simple_function Coverage Results" MODIFIED="1651058226676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
-    <SUITE FILE_PATH="coverage/pythonProject1$1.coverage" NAME="Trapecia_and_circle Coverage Results" MODIFIED="1651150841500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
+    <SUITE FILE_PATH="coverage/pythonProject1$1.coverage" NAME="задача1 Coverage Results" MODIFIED="1677861336437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$11_for_else.coverage" NAME="11-for-else Coverage Results" MODIFIED="1650892808205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base2Home3.coverage" NAME="Base2Home3 Coverage Results" MODIFIED="1677158693880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home4.coverage" NAME="Lesson2Home4 Coverage Results" MODIFIED="1650633047771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$1_while.coverage" NAME="1_while Coverage Results" MODIFIED="1650891358099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$14_list_mutation.coverage" NAME="14-list-mutation Coverage Results" MODIFIED="1651673246499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/pythonProject1$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1652875340969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1677926413749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes7" />
     <SUITE FILE_PATH="coverage/pythonProject1$AvtoChange.coverage" NAME="AvtoChange Coverage Results" MODIFIED="1677763339149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$6_while_else.coverage" NAME="6_while_else Coverage Results" MODIFIED="1650892562278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
+    <SUITE FILE_PATH="coverage/pythonProject1$2_reversed.coverage" NAME="2_reversed Coverage Results" MODIFIED="1677926577203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Player.coverage" NAME="Player Coverage Results" MODIFIED="1656597050558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home3.coverage" NAME="Lesson2Home3 Coverage Results" MODIFIED="1650641463214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task_1.coverage" NAME="Task_1 Coverage Results" MODIFIED="1651687708117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson8" />
+    <SUITE FILE_PATH="coverage/pythonProject1$0_docstrings.coverage" NAME="0_docstrings Coverage Results" MODIFIED="1677926530531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home1__1_.coverage" NAME="Lesson2Home1 (1) Coverage Results" MODIFIED="1650632965684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson7Home4.coverage" NAME="Lesson7Home4 Coverage Results" MODIFIED="1651673091678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/pythonProject1$Class_cat_dog.coverage" NAME="Class=cat+dog Coverage Results" MODIFIED="1677227423882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
@@ -823,20 +402,23 @@
     <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1656607994470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
     <SUITE FILE_PATH="coverage/pythonProject1$new.coverage" NAME="new Coverage Results" MODIFIED="1652466602857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1677149681477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$11_string_operations.coverage" NAME="11_string_operations Coverage Results" MODIFIED="1677927350404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$8_return_in_procedures.coverage" NAME="8_return_in_procedures Coverage Results" MODIFIED="1651058410149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson5Home3.coverage" NAME="Lesson5Home3 Coverage Results" MODIFIED="1651159565254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task43.coverage" NAME="Task43 Coverage Results" MODIFIED="1651255404598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home3.coverage" NAME="Lesson6Home3 Coverage Results" MODIFIED="1651664644283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home3.coverage" NAME="Lesson6Home3 Coverage Results" MODIFIED="1677928547971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_1.coverage" NAME="Lesson4Home 1 Coverage Results" MODIFIED="1651051218453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$13_del.coverage" NAME="13-del Coverage Results" MODIFIED="1651673206080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/pythonProject1$BaseTask.coverage" NAME="BaseTask Coverage Results" MODIFIED="1652724584782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home4_Calculator.coverage" NAME="Lesson3Home4-Calculator Coverage Results" MODIFIED="1650921190842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home1.coverage" NAME="Lesson4Home1 Coverage Results" MODIFIED="1651055911288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base1Home1.coverage" NAME="Base1Home1 Coverage Results" MODIFIED="1652793969766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
-    <SUITE FILE_PATH="coverage/pythonProject1$example_3.coverage" NAME="example_3 Coverage Results" MODIFIED="1652875446113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$example_3.coverage" NAME="example_3 Coverage Results" MODIFIED="1677926453521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes7" />
     <SUITE FILE_PATH="coverage/pythonProject1$Book__1_.coverage" NAME="Book (1) Coverage Results" MODIFIED="1652803219030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home3.coverage" NAME="Lesson4Home3 Coverage Results" MODIFIED="1651053508219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$8_for.coverage" NAME="8_for Coverage Results" MODIFIED="1651055178916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
+    <SUITE FILE_PATH="coverage/pythonProject1$3.coverage" NAME="задача3 Coverage Results" MODIFIED="1677927669343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
+    <SUITE FILE_PATH="coverage/pythonProject1$password__1_.coverage" NAME="password (1) Coverage Results" MODIFIED="1677853952305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_3.coverage" NAME="Lesson4Home 3 Coverage Results" MODIFIED="1651056172649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Game.coverage" NAME="Game Coverage Results" MODIFIED="1656427366297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home1.coverage" NAME="Lesson3Home1 Coverage Results" MODIFIED="1650654952410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
@@ -849,6 +431,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home1while.coverage" NAME="Lesson4Home1while Coverage Results" MODIFIED="1650894831750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$5_continue.coverage" NAME="5_continue Coverage Results" MODIFIED="1650892530561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Class.coverage" NAME="Class Coverage Results" MODIFIED="1677143310645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$__1_.coverage" NAME="пробний (1) Coverage Results" MODIFIED="1677851618786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home4_Calculator__1_.coverage" NAME="Lesson3Home4-Calculator (1) Coverage Results" MODIFIED="1650725756649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$example_4.coverage" NAME="example_4 Coverage Results" MODIFIED="1652875457888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson5Home2.coverage" NAME="Lesson5Home2 Coverage Results" MODIFIED="1651159792166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
@@ -863,6 +446,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Base1Home4.coverage" NAME="Base1Home4 Coverage Results" MODIFIED="1652869851706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Factorial_func.coverage" NAME="Factorial_func Coverage Results" MODIFIED="1651239933053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$17_fibonacci.coverage" NAME="17-fibonacci Coverage Results" MODIFIED="1651685207497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
+    <SUITE FILE_PATH="coverage/pythonProject1$5.coverage" NAME="задача5 Coverage Results" MODIFIED="1677928889566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$3_break.coverage" NAME="3_break Coverage Results" MODIFIED="1650892283144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base2home1.coverage" NAME="Base2home1 Coverage Results" MODIFIED="1677150545293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$1_procedure_with_parameter.coverage" NAME="1_procedure_with_parameter Coverage Results" MODIFIED="1651058073982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
@@ -879,19 +463,20 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Base1Home2.coverage" NAME="Base1Home2 Coverage Results" MODIFIED="1652803911474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson5Home2_2.coverage" NAME="Lesson5Home2-2 Coverage Results" MODIFIED="1651168731854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$4_main_function.coverage" NAME="4_main_function Coverage Results" MODIFIED="1651058191940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
-    <SUITE FILE_PATH="coverage/pythonProject1$example_2.coverage" NAME="example_2 Coverage Results" MODIFIED="1652875431169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$example_2.coverage" NAME="example_2 Coverage Results" MODIFIED="1677926433957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes7" />
     <SUITE FILE_PATH="coverage/pythonProject1$4_break.coverage" NAME="4_break Coverage Results" MODIFIED="1650892452561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home2.coverage" NAME="Lesson2Home2 Coverage Results" MODIFIED="1650631132912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_4.coverage" NAME="Lesson4Home 4 Coverage Results" MODIFIED="1651055697060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task6.coverage" NAME="Task6 Coverage Results" MODIFIED="1652868980853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson5Home4.coverage" NAME="Lesson5Home4 Coverage Results" MODIFIED="1651159732448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home2_Palindrom.coverage" NAME="Lesson6Home2 Palindrom Coverage Results" MODIFIED="1651664565105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home2_Palindrom.coverage" NAME="Lesson6Home2 Palindrom Coverage Results" MODIFIED="1677927955554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task44.coverage" NAME="Task44 Coverage Results" MODIFIED="1651254426413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$9_for.coverage" NAME="9_for Coverage Results" MODIFIED="1651055250263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_2.coverage" NAME="Lesson4Home 2 Coverage Results" MODIFIED="1651056108457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1652867247172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base2Home2.coverage" NAME="Base2Home2 Coverage Results" MODIFIED="1677150611548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home2.coverage" NAME="Lesson3Home2 Coverage Results" MODIFIED="1650725346911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="задача2 Coverage Results" MODIFIED="1677864320750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$vyj_byf.coverage" NAME="vyj;byf Coverage Results" MODIFIED="1677770553788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home2.coverage" NAME="Lesson4Home2 Coverage Results" MODIFIED="1650971790936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Test.coverage" NAME="Test Coverage Results" MODIFIED="1652875519923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
