@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі початок 3">
-      <change afterPath="$PROJECT_DIR$/Telegram  Currency/Currensy.py" afterDir="false" />
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telegram  Currency/Currensy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Telegram  Currency/Currensy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +250,8 @@
       <workItem from="1661784977332" duration="1198000" />
       <workItem from="1675866801580" duration="3810000" />
       <workItem from="1677141877903" duration="12165000" />
-      <workItem from="1677757701080" duration="39096000" />
+      <workItem from="1677757701080" duration="39301000" />
+      <workItem from="1678287854869" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677773772915</created>
@@ -287,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678278799838</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Задачі 5">
+      <created>1678287562780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678287562780</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +334,8 @@
     <MESSAGE value="Задачі початок" />
     <MESSAGE value="Задачі початок 2" />
     <MESSAGE value="Задачі початок 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачі початок 3" />
+    <MESSAGE value="Задачі 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачі 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,7 +504,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_2.coverage" NAME="Lesson4Home 2 Coverage Results" MODIFIED="1651056108457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1652867247172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base2Home2.coverage" NAME="Base2Home2 Coverage Results" MODIFIED="1677150611548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Currensy.coverage" NAME="Currensy Coverage Results" MODIFIED="1678286926827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Currensy.coverage" NAME="Currensy Coverage Results" MODIFIED="1678288507932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home2.coverage" NAME="Lesson3Home2 Coverage Results" MODIFIED="1650725346911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="задача2 Coverage Results" MODIFIED="1677864320750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$vyj_byf.coverage" NAME="vyj;byf Coverage Results" MODIFIED="1677770553788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
