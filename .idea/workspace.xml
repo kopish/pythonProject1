@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі початок">
-      <change afterPath="$PROJECT_DIR$/Задачі/Celsius_Fahrenheit.py" afterDir="false" />
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі початок 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задачі/задача6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задачі/задача7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задачі/задача7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\BaseLes1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.прості_числа">
+  <component name="RunManager" selected="Python.Task1">
     <configuration name="задача5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson6Home2 Palindrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starter/Lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home2 Palindrom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes8/Lesson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson6Home3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starter/Lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter/Lesson6/Lesson6Home3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes8/Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task1" />
+        <item itemvalue="Python.Lesson" />
         <item itemvalue="Python.прості_числа" />
         <item itemvalue="Python.Celsius_Fahrenheit" />
         <item itemvalue="Python.задача5" />
-        <item itemvalue="Python.Lesson6Home3" />
-        <item itemvalue="Python.Lesson6Home2 Palindrom" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,7 @@
       <workItem from="1661784977332" duration="1198000" />
       <workItem from="1675866801580" duration="3810000" />
       <workItem from="1677141877903" duration="12165000" />
-      <workItem from="1677757701080" duration="26594000" />
+      <workItem from="1677757701080" duration="33478000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677773772915</created>
@@ -275,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677930358385</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задачі початок 2">
+      <created>1677934790238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677934790238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +316,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Задачі початок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачі початок" />
+    <MESSAGE value="Задачі початок 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачі початок 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,7 +393,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$14_list_mutation.coverage" NAME="14-list-mutation Coverage Results" MODIFIED="1651673246499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/pythonProject1$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1677926413749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes7" />
     <SUITE FILE_PATH="coverage/pythonProject1$AvtoChange.coverage" NAME="AvtoChange Coverage Results" MODIFIED="1677763339149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
-    <SUITE FILE_PATH="coverage/pythonProject1$7.coverage" NAME="задача7 Coverage Results" MODIFIED="1677934245758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
+    <SUITE FILE_PATH="coverage/pythonProject1$7.coverage" NAME="задача7 Coverage Results" MODIFIED="1677934673282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$6_while_else.coverage" NAME="6_while_else Coverage Results" MODIFIED="1650892562278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$2_reversed.coverage" NAME="2_reversed Coverage Results" MODIFIED="1677926577203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Player.coverage" NAME="Player Coverage Results" MODIFIED="1656597050558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
@@ -424,6 +429,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$8_for.coverage" NAME="8_for Coverage Results" MODIFIED="1651055178916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$3.coverage" NAME="задача3 Coverage Results" MODIFIED="1677927669343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$password__1_.coverage" NAME="password (1) Coverage Results" MODIFIED="1677853952305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Lesson.coverage" NAME="Lesson Coverage Results" MODIFIED="1678109403730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes8" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_3.coverage" NAME="Lesson4Home 3 Coverage Results" MODIFIED="1651056172649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Game.coverage" NAME="Game Coverage Results" MODIFIED="1656427366297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home1.coverage" NAME="Lesson3Home1 Coverage Results" MODIFIED="1650654952410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
@@ -443,9 +449,9 @@
     <SUITE FILE_PATH="coverage/pythonProject1$12_append.coverage" NAME="12-append Coverage Results" MODIFIED="1651673168671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/pythonProject1$1_list_indexing.coverage" NAME="1_list_indexing Coverage Results" MODIFIED="1651664441043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/pythonProject1$12_print.coverage" NAME="12_print Coverage Results" MODIFIED="1650632921923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1650653640857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$0_simple_procedure.coverage" NAME="0_simple_procedure Coverage Results" MODIFIED="1651058044019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson5Home1.coverage" NAME="Lesson5Home1 Coverage Results" MODIFIED="1651151382690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1678109525312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes8" />
     <SUITE FILE_PATH="coverage/pythonProject1$Les4.coverage" NAME="Les4 Coverage Results" MODIFIED="1650919007462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task7.coverage" NAME="Task7 Coverage Results" MODIFIED="1652868390792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$Base1Home4.coverage" NAME="Base1Home4 Coverage Results" MODIFIED="1652869851706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
