@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі 6">
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі 7">
+      <change afterPath="$PROJECT_DIR$/Telegram  Currency/Bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Telegram  Currency/Currensy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Telegram  Currency/Currensy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,8 +58,8 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\BaseLes1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Currensy">
-    <configuration name="Celsius_Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Bot">
+    <configuration name="Bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задачі" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Telegram  Currency" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Програмування\PyCharm\pythonProject1\Задачі\Celsius_Fahrenheit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telegram  Currency/Bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,35 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Програмування\PyCharm\pythonProject1\Base\BaseLes3\password.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Bot" />
         <item itemvalue="Python.Currensy" />
         <item itemvalue="Python.Task1" />
         <item itemvalue="Python.Lesson" />
         <item itemvalue="Python.прості_числа" />
-        <item itemvalue="Python.Celsius_Fahrenheit" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +229,7 @@
       <workItem from="1675866801580" duration="3810000" />
       <workItem from="1677141877903" duration="12165000" />
       <workItem from="1677757701080" duration="39301000" />
-      <workItem from="1678287854869" duration="2718000" />
+      <workItem from="1678287854869" duration="5152000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677773772915</created>
@@ -302,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678288524643</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Задачі 7">
+      <created>1678292972807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678292972807</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +328,8 @@
     <MESSAGE value="Задачі початок 3" />
     <MESSAGE value="Задачі 5" />
     <MESSAGE value="Задачі 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачі 6" />
+    <MESSAGE value="Задачі 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачі 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,6 +431,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home3.coverage" NAME="Lesson6Home3 Coverage Results" MODIFIED="1677928547971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_1.coverage" NAME="Lesson4Home 1 Coverage Results" MODIFIED="1651051218453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$13_del.coverage" NAME="13-del Coverage Results" MODIFIED="1651673206080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1678371009506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$BaseTask.coverage" NAME="BaseTask Coverage Results" MODIFIED="1652724584782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home4_Calculator.coverage" NAME="Lesson3Home4-Calculator Coverage Results" MODIFIED="1650921190842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home1.coverage" NAME="Lesson4Home1 Coverage Results" MODIFIED="1651055911288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
