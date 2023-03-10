@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Задачі 7">
-      <change afterPath="$PROJECT_DIR$/Telegram  Currency/Bot.py" afterDir="false" />
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Добавлено функцію в боті">
+      <change afterPath="$PROJECT_DIR$/Гра Гусак/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Програмування/PyCharm/pythonProject1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Програмування/PyCharm/pythonProject1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Lesson5" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\BaseLes1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Bot">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="Bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="прості_числа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задачі" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Гра Гусак" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Програмування\PyCharm\pythonProject1\Задачі\прості_числа.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Гра Гусак/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.Bot" />
         <item itemvalue="Python.Currensy" />
         <item itemvalue="Python.Task1" />
         <item itemvalue="Python.Lesson" />
-        <item itemvalue="Python.прості_числа" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,12 @@
       <workItem from="1675866801580" duration="3810000" />
       <workItem from="1677141877903" duration="12165000" />
       <workItem from="1677757701080" duration="39301000" />
-      <workItem from="1678287854869" duration="5152000" />
+      <workItem from="1678287854869" duration="5266000" />
+      <workItem from="1678371323595" duration="1668000" />
+      <workItem from="1678373560530" duration="223000" />
+      <workItem from="1678374570920" duration="465000" />
+      <workItem from="1678375059924" duration="964000" />
+      <workItem from="1678376048833" duration="3497000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677773772915</created>
@@ -287,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678292972807</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавлено функцію в боті">
+      <created>1678371293171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678371293171</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +341,8 @@
     <MESSAGE value="Задачі 5" />
     <MESSAGE value="Задачі 6" />
     <MESSAGE value="Задачі 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачі 7" />
+    <MESSAGE value="Добавлено функцію в боті" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено функцію в боті" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,7 +434,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home2__1_.coverage" NAME="Lesson2Home2 (1) Coverage Results" MODIFIED="1650640336813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$2_while_true.coverage" NAME="2_while_true Coverage Results" MODIFIED="1650892199490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson7Home3.coverage" NAME="Lesson7Home3 Coverage Results" MODIFIED="1651672946998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1656607994470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Black_Jack" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1678438686569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Гра Гусак" />
     <SUITE FILE_PATH="coverage/pythonProject1$new.coverage" NAME="new Coverage Results" MODIFIED="1652466602857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1677149681477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$11_string_operations.coverage" NAME="11_string_operations Coverage Results" MODIFIED="1677927350404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson2" />
@@ -431,7 +444,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home3.coverage" NAME="Lesson6Home3 Coverage Results" MODIFIED="1677928547971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_1.coverage" NAME="Lesson4Home 1 Coverage Results" MODIFIED="1651051218453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$13_del.coverage" NAME="13-del Coverage Results" MODIFIED="1651673206080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1678371009506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1678426946689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$BaseTask.coverage" NAME="BaseTask Coverage Results" MODIFIED="1652724584782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home4_Calculator.coverage" NAME="Lesson3Home4-Calculator Coverage Results" MODIFIED="1650921190842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home1.coverage" NAME="Lesson4Home1 Coverage Results" MODIFIED="1651055911288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
