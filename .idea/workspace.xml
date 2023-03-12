@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="початок гри Гусак код MAIN">
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Гусак виконано ДЗ">
+      <change afterPath="$PROJECT_DIR$/Telegram  Currency/ще2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Гра Гусак/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Гра Гусак/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Гра Гусак/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Гра Гусак/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачі/пробник.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telegram  Currency/Bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Telegram  Currency/Bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Гра Гусак/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Гра Гусак/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +50,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -51,14 +58,58 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Lesson5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Програмування\PyCharm\pythonProject1\Гра Гусак" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Base\BaseLes3" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Base\BaseLes1" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Starter" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Base" />
-      <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\BaseLes1" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
+    <configuration name="пробник" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задачі" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Задачі/пробник.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ще2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Telegram  Currency" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telegram  Currency/ще2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,50 +146,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telegram  Currency/Currensy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes8/Lesson.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base/BaseLes8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/BaseLes8/Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,10 +201,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.пробник" />
         <item itemvalue="Python.Bot" />
+        <item itemvalue="Python.ще2" />
         <item itemvalue="Python.Currensy" />
-        <item itemvalue="Python.Task1" />
-        <item itemvalue="Python.Lesson" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +241,7 @@
       <workItem from="1678373560530" duration="223000" />
       <workItem from="1678374570920" duration="465000" />
       <workItem from="1678375059924" duration="964000" />
-      <workItem from="1678376048833" duration="6750000" />
+      <workItem from="1678376048833" duration="23208000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677773772915</created>
@@ -313,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678440273822</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Гусак виконано ДЗ">
+      <created>1678441988086</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678441988087</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +372,8 @@
     <MESSAGE value="Добавлено функцію в боті" />
     <MESSAGE value="початок гри Гусак" />
     <MESSAGE value="початок гри Гусак код MAIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="початок гри Гусак код MAIN" />
+    <MESSAGE value="Гусак виконано ДЗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Гусак виконано ДЗ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -450,7 +465,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson2Home2__1_.coverage" NAME="Lesson2Home2 (1) Coverage Results" MODIFIED="1650640336813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/pythonProject1$2_while_true.coverage" NAME="2_while_true Coverage Results" MODIFIED="1650892199490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson7Home3.coverage" NAME="Lesson7Home3 Coverage Results" MODIFIED="1651672946998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1678441715598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Гра Гусак" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1678613633581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Гра Гусак" />
     <SUITE FILE_PATH="coverage/pythonProject1$new.coverage" NAME="new Coverage Results" MODIFIED="1652466602857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1677149681477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
     <SUITE FILE_PATH="coverage/pythonProject1$11_string_operations.coverage" NAME="11_string_operations Coverage Results" MODIFIED="1677927350404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson2" />
@@ -460,7 +475,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson6Home3.coverage" NAME="Lesson6Home3 Coverage Results" MODIFIED="1677928547971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Starter/Lesson6" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home_1.coverage" NAME="Lesson4Home 1 Coverage Results" MODIFIED="1651051218453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$13_del.coverage" NAME="13-del Coverage Results" MODIFIED="1651673206080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/pythonProject1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1678426946689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1678445204237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$BaseTask.coverage" NAME="BaseTask Coverage Results" MODIFIED="1652724584782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home4_Calculator.coverage" NAME="Lesson3Home4-Calculator Coverage Results" MODIFIED="1650921190842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home1.coverage" NAME="Lesson4Home1 Coverage Results" MODIFIED="1651055911288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
@@ -505,7 +520,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$1_procedure_with_parameter.coverage" NAME="1_procedure_with_parameter Coverage Results" MODIFIED="1651058073982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$7_while_else_break.coverage" NAME="7_while_else_break Coverage Results" MODIFIED="1650914967296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1652867211574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes1" />
-    <SUITE FILE_PATH="coverage/pythonProject1$.coverage" NAME="Строки Coverage Results" MODIFIED="1677239621891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$.coverage" NAME="пробник Coverage Results" MODIFIED="1678447498814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
     <SUITE FILE_PATH="coverage/pythonProject1$7_multiple_return_statements.coverage" NAME="7_multiple_return_statements Coverage Results" MODIFIED="1651151540758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$6_procedures_as_functions.coverage" NAME="6_procedures_as_functions Coverage Results" MODIFIED="1651058244727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson1.coverage" NAME="Lesson1 Coverage Results" MODIFIED="1652897328978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes4" />
@@ -530,7 +545,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$Base2Home2.coverage" NAME="Base2Home2 Coverage Results" MODIFIED="1677150611548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes2" />
     <SUITE FILE_PATH="coverage/pythonProject1$Currensy.coverage" NAME="Currensy Coverage Results" MODIFIED="1678288507932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson3Home2.coverage" NAME="Lesson3Home2 Coverage Results" MODIFIED="1650725346911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
-    <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="задача2 Coverage Results" MODIFIED="1677864320750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Задачі" />
+    <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="ще2 Coverage Results" MODIFIED="1678445127266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Telegram  Currency" />
     <SUITE FILE_PATH="coverage/pythonProject1$vyj_byf.coverage" NAME="vyj;byf Coverage Results" MODIFIED="1677770553788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Lesson4Home2.coverage" NAME="Lesson4Home2 Coverage Results" MODIFIED="1650971790936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/pythonProject1$Test.coverage" NAME="Test Coverage Results" MODIFIED="1652875519923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/BaseLes3" />
