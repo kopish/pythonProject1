@@ -4,5 +4,5 @@ numyears = 5
 year = 1
 while year <= numyears:
     principal = principal * rate
-    print(round(principal, 2))
+    print(year, round(principal, 2))
     year += 1
