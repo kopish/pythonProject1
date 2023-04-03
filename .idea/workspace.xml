@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Гусак виконано all">
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/_csv/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/_json/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/_sqlite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance/Lesson4/_xml/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+    <list default="true" id="9708447e-4fdf-4fd1-9b79-d696693bc255" name="Changes" comment="Завантажено Lesson 4">
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/_gevent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example12_twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example1_yeild_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example2_cor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example3_sync_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example4_comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example5_async_await.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example6_event_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example7_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example8_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance/Lesson 5/example9_aiohttp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задачі/пробник.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задачі/пробник.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +63,14 @@
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Lesson5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Програмування\PyCharm\pythonProject1\Advance\Lesson 5" />
       <recent name="D:\Програмування\PyCharm\pythonProject1\Advance\Lesson4" />
       <recent name="D:\Програмування\PyCharm\pythonProject1\Гра Гусак" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Base\BaseLes3" />
       <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Base\BaseLes1" />
-      <recent name="C:\Users\Dell\PycharmProjects\pythonProject1\Starter" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.пробник">
+  <component name="RunManager" selected="Python.example1_yeild_from">
     <configuration name="пробник" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Currensy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="example1_yeild_from" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Telegram  Currency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance/Lesson 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telegram  Currency/Currensy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance/Lesson 5/example1_yeild_from.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example1_yeild_from" />
         <item itemvalue="Python.пробник" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.Bot" />
         <item itemvalue="Python.ще2" />
-        <item itemvalue="Python.Currensy" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +349,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678736000395</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Завантажено Lesson 4">
+      <created>1680512121733</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680512121733</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Завантажено Lesson 4">
+      <created>1680512169402</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680512169402</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +411,8 @@
     <MESSAGE value="Гусак виконано ДЗ" />
     <MESSAGE value="Гусак виконано ДЗ2" />
     <MESSAGE value="Гусак виконано all" />
-    <option name="LAST_COMMIT_MESSAGE" value="Гусак виконано all" />
+    <MESSAGE value="Завантажено Lesson 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Завантажено Lesson 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
