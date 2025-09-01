@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ua-dative"
+version = "0.2.0"
+description = "UA Dative Surnames & UA Declensor: Ukrainian name declension with GUI and Excel"
+authors = [{name = "UA Team"}]
+requires-python = ">=3.10"
+readme = "README.md"
+dependencies = [
+  "pandas>=2.1",
+  "openpyxl>=3.1",
+  "xlwings>=0.30",
+  "pydantic>=2.7",
+  "regex>=2024.5.15",
+  "PyYAML>=6.0",
+  "PyQt6>=6.6",
+]
+
+[tool.setuptools]
+packages = ["ua_dative", "ua_declensor"]
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I", "B", "UP", "SIM", "C4", "TCH"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_return_any = true
+warn_unused_configs = true
+plugins = []
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-q"
+testpaths = ["tests"]
+
+[project.optional-dependencies]
+dev = ["pytest", "hypothesis", "mypy", "ruff", "black"]
