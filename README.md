@@ -1,27 +1,45 @@
-# UA Dative Surnames
+# UA Dative Surnames & UA Declensor
 
-Offline tool to decline Ukrainian surnames into the dative case with Excel integration.
+Tools for declining Ukrainian surnames and full names. Works offline.
 
-## Installation
+## UA Declensor (GUI)
 
-Use a clean folder or a virtual environment. In this repo layout, install editable:
+Run locally (development):
 
 ```bash
-pip install -e .[dev]
+python -m pip install -e .[dev]
+python -m ua_declensor.gui
 ```
 
-## Usage
+Pack to Windows .exe (from Windows):
 
-- Excel (xlwings UDF):
+```bash
+pip install pyinstaller
+pyinstaller --onefile --noconsole ua_declensor.py
+# Dist output: dist/ua_declensor.exe  → rename to UA_Declensor.exe
+```
+
+Usage in app:
+- Paste full name: "Петренко Іван Іванович"
+- Choose Gender: auto/m/f (auto by default)
+- Click Decline → table shows 7 cases
+- Export to Excel → saves cases.xlsx
+
+## UA Dative (Excel/CLI)
+
+Excel UDF:
 ```excel
 =UA_DATIVE(A2, "m", "long", TRUE)
 ```
 
-- CLI:
+CLI:
 ```bash
 python -m ua_dative.cli --input in.xlsx --sheet Sheet1 \
   --col Surname --gender-col Gender --output out.xlsx \
-  --out-col Dative --variant long --keep-case true
+  --out-col Dative --variant long --keep-case true --report
 ```
 
-See `ua_dative/exceptions.yml` and `ua_dative/names.yml` for configuration of exceptions and name-gender detection.
+## Exceptions and Names
+
+- Edit `ua_dative/exceptions.yml` or `ua_declensor/exceptions.yml` to add overrides or invariable forms.
+- Edit `ua_dative/names.yml` or `ua_declensor/names.yml` to add male/female given names for auto-detection.

@@ -1,1 +1,2 @@
 ua_dative
+ua_declensor
