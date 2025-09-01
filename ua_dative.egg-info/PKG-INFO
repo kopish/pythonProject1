@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: ua-dative
+Version: 0.1.0
+Summary: UA Dative Surnames: Decline Ukrainian surnames into dative case with Excel integration
+Author: UA Team
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.1
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: xlwings>=0.30
+Requires-Dist: pydantic>=2.7
+Requires-Dist: regex>=2024.5.15
+Requires-Dist: PyYAML>=6.0
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: hypothesis; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: black; extra == "dev"
+
+# UA Dative Surnames
+
+Offline tool to decline Ukrainian surnames into the dative case with Excel integration.
+
+## Installation
+
+Use a clean folder or a virtual environment. In this repo layout, install editable:
+
+```bash
+pip install -e .[dev]
+```
+
+## Usage
+
+- Excel (xlwings UDF):
+```excel
+=UA_DATIVE(A2, "m", "long", TRUE)
+```
+
+- CLI:
+```bash
+python -m ua_dative.cli --input in.xlsx --sheet Sheet1 \
+  --col Surname --gender-col Gender --output out.xlsx \
+  --out-col Dative --variant long --keep-case true
+```
+
+See `ua_dative/exceptions.yml` and `ua_dative/names.yml` for configuration of exceptions and name-gender detection.

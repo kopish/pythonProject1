@@ -1,0 +1,12 @@
+invariable_feminine:
+  - Петренко
+  - Руденко
+
+custom_forms:
+  Коваль:
+    m:
+      long: "Ковалеві"
+      short: "Ковалю"
+    f:
+      long: "Коваль"
+      short: "Коваль"

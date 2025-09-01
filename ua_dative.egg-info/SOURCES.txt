@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+tests/test_core.py
+tests/test_excel.py
+ua_dative/__init__.py
+ua_dative/cli.py
+ua_dative/engine.py
+ua_dative/excel_udf.py
+ua_dative/exceptions_loader.py
+ua_dative/names_loader.py
+ua_dative/rules.py
+ua_dative/utils.py
+ua_dative.egg-info/PKG-INFO
+ua_dative.egg-info/SOURCES.txt
+ua_dative.egg-info/dependency_links.txt
+ua_dative.egg-info/requires.txt
+ua_dative.egg-info/top_level.txt
